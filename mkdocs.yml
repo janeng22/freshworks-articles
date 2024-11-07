@@ -1,0 +1,8 @@
+site_name: Freshworks Documentation
+nav:
+    - Home: index.md
+    - Getting Started: getting-started.md
+    - Admin Guide: admin-guide.md
+    - Troubleshooting: troubleshooting.md
+  
+
